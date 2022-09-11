@@ -1,0 +1,22 @@
+.primeiras_listas{
+    color: chocolate;
+}
+
+.segunda_listas{
+    color: crimson;
+}
+
+#titulo{
+    color: chartreuse;
+}
+
+.paragarafo{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1;
+    border: 15 px solid red;
+    /*border-width: 15px;
+    border: solid;
+    border-color: red;*/
+
+}
